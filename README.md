@@ -38,4 +38,4 @@ Be the first player to connect **four discs in a row** while strategically using
 ## 🚀 How to Run
 
 ```bash
-python main.py
+python CounFour.py
